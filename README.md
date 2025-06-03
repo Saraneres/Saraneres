@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack JavaScript`**
 
-Me chamo Sarqa Nascimento Neres Guilherme, sou Desenvolvedora Full Stack em formação, graduada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Estou em constante aperfeiçoamento das minhas habilidades em JavaScript, TypeScript, React, Next.js, Node.js, MongoDB e SQL, com experiência em desenvolvimento web e versionamento de código.
+Me chamo Sara Nascimento Neres Guilherme, sou Desenvolvedora Full Stack em formação, graduada em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Estou em constante aperfeiçoamento das minhas habilidades em JavaScript, TypeScript, React, Next.js, Node.js, MongoDB e SQL, com experiência em desenvolvimento web e versionamento de código.
 
 Sou apaixonada por tecnologia e busco aplicar meus conhecimentos para contribuir com soluções inovadoras. 
 
